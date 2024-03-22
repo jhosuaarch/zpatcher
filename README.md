@@ -4,8 +4,21 @@
 
 **zpatcher is a simple tool for reverse engineering.This tool is used as a tool for modifying android applications, shared lib and executable files.**
 
-### install
-```Bash
+
+### Install Git 
+```bash
+$ pkg install git
+```
+
+
+### Clone Respotory 
+```bash
+$ git clone https://github.com/jhosua atch/zpatcher
+```
+
+
+### Run
+```bash
 $ chmod +x install.sh
 $ ./install.sh
 ```
