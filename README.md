@@ -1,4 +1,4 @@
-## zpatcher
+# zpatcher
 
 ![img](https://github.com/jhosuaarch/zpatcher/blob/main/img/IMG_20240319_172105.jpg?raw=true)
 
@@ -11,7 +11,7 @@ $ pkg install git
 ```
 
 
-### Clone Respotory 
+### Clone Repositories
 ```bash
 $ git clone https://github.com/jhosua atch/zpatcher
 ```
